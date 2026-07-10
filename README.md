@@ -181,12 +181,12 @@ Para continuar con la parte 2 es obligatorio haber completado con éxito la ejec
 
     Para iniciar la simulación, se debe ejecutar los controladores en 3 terminales distintas. 
 
-    Extra #1:
+    Extra (#1):
     ```bash
     $ source ~/workspace_name/install/setup.bash
     $ ros2 run ftg racer --ros-args -p scan_topic:=/opp_racecar/scan -p drive_topic:=/opp_racecar/drive -p odom_topic:=/opp_racecar/odom -p max_speed:=4.5 -p is_ego:=False
     ```
-    Extra #2:
+    Extra (#2):
     ```bash
     $ source ~/workspace_name/install/setup.bash
     $ ros2 run ftg racer --ros-args -p scan_topic:=/opp2_racecar/scan -p drive_topic:=/opp2_racecar/drive -p odom_topic:=/opp2_racecar/odom -p max_speed:=4.0 -p is_ego:=False
