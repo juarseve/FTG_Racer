@@ -196,5 +196,12 @@ Para continuar con la parte 2 es obligatorio haber completado con éxito la ejec
     $ source ~/workspace_name/install/setup.bash
     $ ros2 run ftg racer --ros-args -p scan_topic:=/scan -p drive_topic:=/drive -p odom_topic:=/ego_racecar/odom -p max_speed:=10.5 -p is_ego:=True
     ```
+## 4. Demos
+
+* [![Parte 1](https://img.youtube.com)](https://www.youtube.com/watch?v=uvA569BjL0c)
+* [![Parte 2](https://img.youtube.com)](https://www.youtube.com/watch?v=9tHNwPfgrQA)
+
+
+
 
 
