@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing ftg.egg-info/PKG-INFO
+writing dependency_links to ftg.egg-info/dependency_links.txt
+writing entry points to ftg.egg-info/entry_points.txt
+writing requirements to ftg.egg-info/requires.txt
+writing top-level names to ftg.egg-info/top_level.txt
+reading manifest file 'ftg.egg-info/SOURCES.txt'
+writing manifest file 'ftg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/juan/vnt/proyecto-1p/install/ftg/lib/python3.10/site-packages/ftg.egg-link (link to .)
+Installing racer script to /home/juan/vnt/proyecto-1p/install/ftg/lib/ftg
+
+Installed /home/juan/vnt/proyecto-1p/build/ftg
+running symlink_data

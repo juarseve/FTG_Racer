@@ -1,0 +1,9 @@
+source;share/ftg/hook/pythonpath.ps1
+source;share/ftg/hook/pythonpath.dsv
+source;share/ftg/hook/pythonpath.sh
+source;share/ftg/hook/ament_prefix_path.ps1
+source;share/ftg/hook/ament_prefix_path.dsv
+source;share/ftg/hook/ament_prefix_path.sh
+source;../../build/ftg/share/ftg/hook/pythonpath_develop.ps1
+source;../../build/ftg/share/ftg/hook/pythonpath_develop.dsv
+source;../../build/ftg/share/ftg/hook/pythonpath_develop.sh

@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+ftg/__init__.py
+ftg/ftg_racer.py
+ftg.egg-info/PKG-INFO
+ftg.egg-info/SOURCES.txt
+ftg.egg-info/dependency_links.txt
+ftg.egg-info/entry_points.txt
+ftg.egg-info/requires.txt
+ftg.egg-info/top_level.txt
+ftg.egg-info/zip-safe
+resource/ftg

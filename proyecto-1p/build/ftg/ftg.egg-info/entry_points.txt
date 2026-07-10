@@ -1,0 +1,3 @@
+[console_scripts]
+racer = ftg.ftg_racer:main
+

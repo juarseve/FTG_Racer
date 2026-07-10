@@ -1,0 +1,17 @@
+[0.656s] Invoking command in '/home/juan/vnt/proyecto-1p/build/ftg': PYTHONPATH=/home/juan/vnt/proyecto-1p/build/ftg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/vnt/proyecto-1p/install/ftg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/juan/vnt/proyecto-1p/build/ftg/build --no-deps symlink_data
+[0.846s] running develop
+[0.962s] running egg_info
+[0.962s] writing ftg.egg-info/PKG-INFO
+[0.962s] writing dependency_links to ftg.egg-info/dependency_links.txt
+[0.962s] writing entry points to ftg.egg-info/entry_points.txt
+[0.962s] writing requirements to ftg.egg-info/requires.txt
+[0.962s] writing top-level names to ftg.egg-info/top_level.txt
+[0.964s] reading manifest file 'ftg.egg-info/SOURCES.txt'
+[0.964s] writing manifest file 'ftg.egg-info/SOURCES.txt'
+[0.965s] running build_ext
+[0.965s] Creating /home/juan/vnt/proyecto-1p/install/ftg/lib/python3.10/site-packages/ftg.egg-link (link to .)
+[0.966s] Installing racer script to /home/juan/vnt/proyecto-1p/install/ftg/lib/ftg
+[0.966s] 
+[0.966s] Installed /home/juan/vnt/proyecto-1p/build/ftg
+[0.966s] running symlink_data
+[0.987s] Invoked command in '/home/juan/vnt/proyecto-1p/build/ftg' returned '0': PYTHONPATH=/home/juan/vnt/proyecto-1p/build/ftg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/juan/vnt/proyecto-1p/install/ftg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/juan/vnt/proyecto-1p/build/ftg/build --no-deps symlink_data
